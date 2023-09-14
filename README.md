@@ -1,5 +1,6 @@
 # pokemon_image_similar
 Kaggle에서 가져온 pokemon 파일을 이용한 이미지 유사도 구현 프로젝트
+https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types
 
 main.py를 실행해 주세요!
 
