@@ -14,3 +14,8 @@ print_similarity 함수 속 첫번째와 두번째 매개변수를 원하는 포
 *특이사항*
 1. 텐서플로우 keras 중 vgg16 모델 사용
 2. 모델 학습 중 fc1까지 진행
+
+학습 및 프로젝트 기간: 5일
+사용언어: 파이썬
+개발 IDE: VSCODE
+참고한 깃허브 주소: https://github.com/delojmkt/image_similar
