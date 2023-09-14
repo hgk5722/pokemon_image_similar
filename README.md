@@ -4,7 +4,8 @@ https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types
 
 main.py를 실행해 주세요!
 
-*********** *주의사항* *************
+**********************************
+*주의사항*
 
 pokemon 폴더 안에 있는 사진속 이름을 이용해서 command 1번 함수의 이름을 변경해 주세요.
 print_similarity 함수 속 첫번째와 두번째 매개변수를 원하는 포켓몬 이름으로 변경하시면 됩니다 (●'◡'●)
